@@ -30,7 +30,7 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-singh-2603a028b/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR-LINK](https://www.linkedin.com/in/abhay-singh-2603a028b/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)]([https://yourportfolio.com](https://abhaypersonalwebsite.vercel.app/))  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhaysinghup58@gmail.com)  
 
