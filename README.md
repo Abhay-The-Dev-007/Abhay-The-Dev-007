@@ -10,7 +10,8 @@
 - **Frontend:** React.js, Tailwind CSS,
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, SQL  
-- **AI/ML:** TensorFlow, Scikit-learn  
+- **AI/ML & Data Science:** Pandas, PyTorch
+- **Data Processing:** BeautifulSoup, WebScraping
 - **Other Tools:** Git, Postman, Vercel, Render, Jupyter, VS code  
 
 ---
